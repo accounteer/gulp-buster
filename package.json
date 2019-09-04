@@ -42,7 +42,7 @@
   "homepage": "https://github.com/UltCombo/gulp-buster",
   "devDependencies": {
     "istanbul": "^0.4.3",
-    "mocha": "^2.4.5",
+    "mocha": "^6.2.0",
     "should": "^8.3.1"
   },
   "scripts": {
